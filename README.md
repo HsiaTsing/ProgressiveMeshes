@@ -16,3 +16,5 @@ You should make sure `OpenGL` and `GLUT` are both installed correctly on you com
 >key 's': perform vertex split  
 >key 'z': reduce the number of faces by 5%  
 >key 'x': the opposite of above operation.(i.e. increase the number of faces by 5%/(100-5))
+
+![](./PM.jpg)
